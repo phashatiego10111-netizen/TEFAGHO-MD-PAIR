@@ -17,7 +17,7 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "6.7.18",
+    "@whiskeysockets/baileys": "v7.0.0-rc.9",
     "@types/node": "^18.0.6",
     "async-mutex": "0.4.1",
     "awesome-phonenumber": "^2.64.0",
@@ -31,7 +31,7 @@
     "dropbox": "^10.34.0",
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
-    "jimp": "^0.16.1",
+    "jimp": "^1.6.0",
     "megajs": "1.1.7",
     "node-fetch": "^3.2.6",
     "pastebin-js": "^1.0.6",
